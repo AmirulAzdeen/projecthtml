@@ -37,7 +37,7 @@ p {
   color: white;
   font-family: "Source sans Pro";
   font-size: 25px;
-  width: auto;
+  height: 32px;
   display: inline-block;
   vertical-align: top;
 }
@@ -64,7 +64,6 @@ p {
   font-family: "Source sans Pro";
   font-size: 16px;
   text-align: right;
-  width: auto;
   display: inline-block;
   vertical-align: top;
 }
